@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ABH\\source\\repos\\Siemens_DB_Tool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BA93B5-01B3-4765-8EC9-C16955F8815F}|Siemens_DB_Tool.csproj|C:\\Users\\ABH\\source\\repos\\Siemens_DB_Tool\\addin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BA93B5-01B3-4765-8EC9-C16955F8815F}|Siemens_DB_Tool.csproj|solutionrelative:addin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BA93B5-01B3-4765-8EC9-C16955F8815F}|Siemens_DB_Tool.csproj|c:\\users\\abh\\source\\repos\\siemens_db_tool\\progressdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BA93B5-01B3-4765-8EC9-C16955F8815F}|Siemens_DB_Tool.csproj|solutionrelative:progressdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BA93B5-01B3-4765-8EC9-C16955F8815F}|Siemens_DB_Tool.csproj|c:\\users\\abh\\source\\repos\\siemens_db_tool\\progressdialog_zc_array_strict.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BA93B5-01B3-4765-8EC9-C16955F8815F}|Siemens_DB_Tool.csproj|solutionrelative:progressdialog_zc_array_strict.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProgressDialog_ZC_Array_Strict.cs",
+              "DocumentMoniker": "C:\\Users\\ABH\\source\\repos\\Siemens_DB_Tool\\ProgressDialog_ZC_Array_Strict.cs",
+              "RelativeDocumentMoniker": "ProgressDialog_ZC_Array_Strict.cs",
+              "ToolTip": "C:\\Users\\ABH\\source\\repos\\Siemens_DB_Tool\\ProgressDialog_ZC_Array_Strict.cs",
+              "RelativeToolTip": "ProgressDialog_ZC_Array_Strict.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAgwNQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T07:14:29.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProgressDialog.cs",
+              "DocumentMoniker": "C:\\Users\\ABH\\source\\repos\\Siemens_DB_Tool\\ProgressDialog.cs",
+              "RelativeDocumentMoniker": "ProgressDialog.cs",
+              "ToolTip": "C:\\Users\\ABH\\source\\repos\\Siemens_DB_Tool\\ProgressDialog.cs",
+              "RelativeToolTip": "ProgressDialog.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAwwGsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T15:25:42.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddIn.cs",
+              "DocumentMoniker": "C:\\Users\\ABH\\source\\repos\\Siemens_DB_Tool\\AddIn.cs",
+              "RelativeDocumentMoniker": "AddIn.cs",
+              "ToolTip": "C:\\Users\\ABH\\source\\repos\\Siemens_DB_Tool\\AddIn.cs",
+              "RelativeToolTip": "AddIn.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAA9wFcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T21:19:52.762Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
